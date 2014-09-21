@@ -1,6 +1,6 @@
 {
     "name": "privilege.datastore",
-    "description": "this is a privilege component for soul that manages privileges in a datastore component",
+    "description": "this is a privilege component for zest that manages privileges in a datastore component",
     "version": "0.0.1",
     "main": "./lib/index",
     "private": true,
